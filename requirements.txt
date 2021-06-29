@@ -1,7 +1,9 @@
-streamlit == 0.82.0
+Cython==0.29.16
+matplotlib==3.2.1
+numpy==1.18.2
 pandas==1.1.5
-matplotlib>=1.4.3
-sklearn==0.0
 Pillow==7.0.0
-
-
+plotly==4.5.4
+scikit-learn==0.22.2.post1
+sklearn==0.0
+streamlit==0.82.0
