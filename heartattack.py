@@ -91,7 +91,7 @@ st.subheader("Classification: ")
 a=predictionn
 if (a>0.5):
     st.write('Risk')
-    st.write(predictionn)
+    #st.write(predictionn)
 else:
     st.write('No Risk')
-    st.write(predictionn)
+    #st.write(predictionn)
