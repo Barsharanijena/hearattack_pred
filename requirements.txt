@@ -1,6 +1,5 @@
 streamlit == 0.82.0
 pandas==1.1.5
-Numpy == 1.18.2
 matplotlib>=1.4.3
 sklearn==0.0
 Pillow==7.0.0
